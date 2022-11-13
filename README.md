@@ -27,6 +27,7 @@ I made this for me! Hopefully someone else finds it useful.
 * Sega Master System / Mark III
 * Sega Mega Drive / Genesis
 * Sega Mega-CD / Sega CD
+* Sega Saturn
 
 ## Credits
 
