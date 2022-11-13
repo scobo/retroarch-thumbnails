@@ -4,7 +4,7 @@
 
 Thumbnails for [RetroArch](https://www.retroarch.com/).
 
-The current scope of the project is licensed US releases of catridge-based home console games that are playable with a gamepad.
+The current scope of the project is licensed US releases of home console games that are playable with a gamepad.
 
 I made this for me! Hopefully someone else finds it useful.
 
