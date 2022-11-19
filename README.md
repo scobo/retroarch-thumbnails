@@ -11,9 +11,11 @@ I was dissatisfied with the default RetroArch thumbnails, so I’ve been working
 I created templates for each system, remasked the key art and logos, cleaned up dust and scratches, and generally tried to make them more consistent in the context of RetroArch’s UI. In short, these aren’t strict preservations, but (loving) recreations designed to look nice on a screen.
 Names are based on the latest No-Intro and REDUMP databases, so they should be easy to use. Screenshots and title screens are included as well, if you’d also like to display those.
 
-The current scope of the project is licensed US releases of home console games that are playable with a gamepad.
-
 I made this for me! Hopefully someone else finds it useful.
+
+### Scope
+
+The current scope of the project is licensed US releases of home console games that are playable with a gamepad.
 
 ## Supported systems
 
