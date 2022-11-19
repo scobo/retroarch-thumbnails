@@ -17,7 +17,7 @@ I made this for me! Hopefully someone else finds it useful.
 
 The current scope of the project is licensed US releases of home console games that are playable with a gamepad.
 
-## Supported systems
+### Supported systems
 
 * Atari 5200
 * Atari 7800
